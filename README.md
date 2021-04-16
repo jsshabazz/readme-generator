@@ -1,3 +1,4 @@
+[![Generic badge](https://img.shields.io/badge/<MYPROJECT>-<STATUS>-<RED>.svg)](https://shields.io/)
 # readme-generator
 ## Decsription
 
@@ -19,3 +20,4 @@ Require stack:" which I spent the next 2 hours and a half trying to rectify to n
 
  #### Usages
  rain into terminal error when running node index.js
+ 
